@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\bin\Debug\net9.0\semana04.exe
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\bin\Debug\net9.0\semana04.deps.json
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\bin\Debug\net9.0\semana04.runtimeconfig.json
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\bin\Debug\net9.0\semana04.dll
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\bin\Debug\net9.0\semana04.pdb
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\obj\Debug\net9.0\semana04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\obj\Debug\net9.0\semana04.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\obj\Debug\net9.0\semana04.AssemblyInfo.cs
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\obj\Debug\net9.0\semana04.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\obj\Debug\net9.0\semana04.dll
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\obj\Debug\net9.0\refint\semana04.dll
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\obj\Debug\net9.0\semana04.pdb
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\obj\Debug\net9.0\semana04.genruntimeconfig.cache
+C:\Users\usuario\Documents\Proyecto SAMIK\semana04\obj\Debug\net9.0\ref\semana04.dll
