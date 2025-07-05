@@ -1,0 +1,46 @@
+Ejercicio 4
+Escribir un programa que pregunte al usuario los números ganadores de la lotería primitiva, los almacene en una lista y los muestre por pantalla ordenados de menor a mayor.
+
+using System;
+using System.Collections.Generic;
+
+class Loteria
+{
+    public List<int> Numeros { get; private set; }
+
+    public Loteria()
+    {
+        Numeros = new List<int>();
+    }
+
+    public void IngresarNumeros()
+    {
+        Console.WriteLine("Introduce 6 números ganadores de la lotería:");
+        for (int i = 0; i < 6; i++)
+        {
+            Console.Write($"Número {i + 1}: ");
+            int numero = Convert.ToInt32(Console.ReadLine());
+            Numeros.Add(numero);
+        }
+    }
+
+    public void MostrarNumerosOrdenados()
+    {
+        Numeros.Sort();
+        Console.WriteLine("Números ganadores ordenados:");
+        foreach (var numero in Numeros)
+        {
+            Console.Write($"{numero} ");
+        }
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Loteria loteria = new Loteria();
+        loteria.IngresarNumeros();
+        loteria.MostrarNumerosOrdenados();
+    }
+}
