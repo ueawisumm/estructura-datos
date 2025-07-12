@@ -32,6 +32,7 @@ class Curso
 }
 
 class Program
+
 {
     static void Main()
     {
