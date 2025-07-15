@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Documents\\Proyecto SAMIK\\estructura-datos\\SEMANA02\\semana02\\semana02.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Documents\\Proyecto SAMIK\\estructura-datos\\semana02\\semana02.csproj",
       "projectName": "semana02",
-      "projectPath": "C:\\Users\\usuario\\Documents\\Proyecto SAMIK\\estructura-datos\\SEMANA02\\semana02\\semana02.csproj",
+      "projectPath": "C:\\Users\\usuario\\Documents\\Proyecto SAMIK\\estructura-datos\\semana02\\semana02.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Documents\\Proyecto SAMIK\\estructura-datos\\SEMANA02\\semana02\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Documents\\Proyecto SAMIK\\estructura-datos\\semana02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
